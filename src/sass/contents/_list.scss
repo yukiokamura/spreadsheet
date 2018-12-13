@@ -1,0 +1,11 @@
+.nameList{
+  margin: 50px;
+  a{
+    display: block;
+    color: #000;
+    font-size: 12px;
+  }
+  a + a{
+    margin-top: 10px;
+  }
+}
